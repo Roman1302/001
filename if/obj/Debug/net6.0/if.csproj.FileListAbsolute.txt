@@ -1,0 +1,15 @@
+/home/romanrb/Рабочий стол/C#/Example/if/obj/Debug/net6.0/if.csproj.AssemblyReference.cache
+/home/romanrb/Рабочий стол/C#/Example/if/obj/Debug/net6.0/if.GeneratedMSBuildEditorConfig.editorconfig
+/home/romanrb/Рабочий стол/C#/Example/if/obj/Debug/net6.0/if.AssemblyInfoInputs.cache
+/home/romanrb/Рабочий стол/C#/Example/if/obj/Debug/net6.0/if.AssemblyInfo.cs
+/home/romanrb/Рабочий стол/C#/Example/if/obj/Debug/net6.0/if.csproj.CoreCompileInputs.cache
+/home/romanrb/Рабочий стол/C#/Example/if/bin/Debug/net6.0/if
+/home/romanrb/Рабочий стол/C#/Example/if/bin/Debug/net6.0/if.deps.json
+/home/romanrb/Рабочий стол/C#/Example/if/bin/Debug/net6.0/if.runtimeconfig.json
+/home/romanrb/Рабочий стол/C#/Example/if/bin/Debug/net6.0/if.dll
+/home/romanrb/Рабочий стол/C#/Example/if/bin/Debug/net6.0/if.pdb
+/home/romanrb/Рабочий стол/C#/Example/if/obj/Debug/net6.0/if.dll
+/home/romanrb/Рабочий стол/C#/Example/if/obj/Debug/net6.0/refint/if.dll
+/home/romanrb/Рабочий стол/C#/Example/if/obj/Debug/net6.0/if.pdb
+/home/romanrb/Рабочий стол/C#/Example/if/obj/Debug/net6.0/if.genruntimeconfig.cache
+/home/romanrb/Рабочий стол/C#/Example/if/obj/Debug/net6.0/ref/if.dll

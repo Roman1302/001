@@ -1,0 +1,15 @@
+/home/romanrb/Рабочий стол/C#/Example/sum/bin/Debug/net6.0/sum
+/home/romanrb/Рабочий стол/C#/Example/sum/bin/Debug/net6.0/sum.deps.json
+/home/romanrb/Рабочий стол/C#/Example/sum/bin/Debug/net6.0/sum.runtimeconfig.json
+/home/romanrb/Рабочий стол/C#/Example/sum/bin/Debug/net6.0/sum.dll
+/home/romanrb/Рабочий стол/C#/Example/sum/bin/Debug/net6.0/sum.pdb
+/home/romanrb/Рабочий стол/C#/Example/sum/obj/Debug/net6.0/sum.csproj.AssemblyReference.cache
+/home/romanrb/Рабочий стол/C#/Example/sum/obj/Debug/net6.0/sum.GeneratedMSBuildEditorConfig.editorconfig
+/home/romanrb/Рабочий стол/C#/Example/sum/obj/Debug/net6.0/sum.AssemblyInfoInputs.cache
+/home/romanrb/Рабочий стол/C#/Example/sum/obj/Debug/net6.0/sum.AssemblyInfo.cs
+/home/romanrb/Рабочий стол/C#/Example/sum/obj/Debug/net6.0/sum.csproj.CoreCompileInputs.cache
+/home/romanrb/Рабочий стол/C#/Example/sum/obj/Debug/net6.0/sum.dll
+/home/romanrb/Рабочий стол/C#/Example/sum/obj/Debug/net6.0/refint/sum.dll
+/home/romanrb/Рабочий стол/C#/Example/sum/obj/Debug/net6.0/sum.pdb
+/home/romanrb/Рабочий стол/C#/Example/sum/obj/Debug/net6.0/sum.genruntimeconfig.cache
+/home/romanrb/Рабочий стол/C#/Example/sum/obj/Debug/net6.0/ref/sum.dll

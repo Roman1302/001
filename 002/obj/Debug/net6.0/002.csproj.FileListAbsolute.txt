@@ -1,0 +1,15 @@
+/home/romanrb/Рабочий стол/C#/Example/002/bin/Debug/net6.0/002
+/home/romanrb/Рабочий стол/C#/Example/002/bin/Debug/net6.0/002.deps.json
+/home/romanrb/Рабочий стол/C#/Example/002/bin/Debug/net6.0/002.runtimeconfig.json
+/home/romanrb/Рабочий стол/C#/Example/002/bin/Debug/net6.0/002.dll
+/home/romanrb/Рабочий стол/C#/Example/002/bin/Debug/net6.0/002.pdb
+/home/romanrb/Рабочий стол/C#/Example/002/obj/Debug/net6.0/002.csproj.AssemblyReference.cache
+/home/romanrb/Рабочий стол/C#/Example/002/obj/Debug/net6.0/002.GeneratedMSBuildEditorConfig.editorconfig
+/home/romanrb/Рабочий стол/C#/Example/002/obj/Debug/net6.0/002.AssemblyInfoInputs.cache
+/home/romanrb/Рабочий стол/C#/Example/002/obj/Debug/net6.0/002.AssemblyInfo.cs
+/home/romanrb/Рабочий стол/C#/Example/002/obj/Debug/net6.0/002.csproj.CoreCompileInputs.cache
+/home/romanrb/Рабочий стол/C#/Example/002/obj/Debug/net6.0/002.dll
+/home/romanrb/Рабочий стол/C#/Example/002/obj/Debug/net6.0/refint/002.dll
+/home/romanrb/Рабочий стол/C#/Example/002/obj/Debug/net6.0/002.pdb
+/home/romanrb/Рабочий стол/C#/Example/002/obj/Debug/net6.0/002.genruntimeconfig.cache
+/home/romanrb/Рабочий стол/C#/Example/002/obj/Debug/net6.0/ref/002.dll

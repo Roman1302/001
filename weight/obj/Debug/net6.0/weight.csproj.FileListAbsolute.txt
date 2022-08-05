@@ -1,0 +1,15 @@
+/home/romanrb/Рабочий стол/C#/Example/weight/obj/Debug/net6.0/weight.csproj.AssemblyReference.cache
+/home/romanrb/Рабочий стол/C#/Example/weight/obj/Debug/net6.0/weight.GeneratedMSBuildEditorConfig.editorconfig
+/home/romanrb/Рабочий стол/C#/Example/weight/obj/Debug/net6.0/weight.AssemblyInfoInputs.cache
+/home/romanrb/Рабочий стол/C#/Example/weight/obj/Debug/net6.0/weight.AssemblyInfo.cs
+/home/romanrb/Рабочий стол/C#/Example/weight/obj/Debug/net6.0/weight.csproj.CoreCompileInputs.cache
+/home/romanrb/Рабочий стол/C#/Example/weight/bin/Debug/net6.0/weight
+/home/romanrb/Рабочий стол/C#/Example/weight/bin/Debug/net6.0/weight.deps.json
+/home/romanrb/Рабочий стол/C#/Example/weight/bin/Debug/net6.0/weight.runtimeconfig.json
+/home/romanrb/Рабочий стол/C#/Example/weight/bin/Debug/net6.0/weight.dll
+/home/romanrb/Рабочий стол/C#/Example/weight/bin/Debug/net6.0/weight.pdb
+/home/romanrb/Рабочий стол/C#/Example/weight/obj/Debug/net6.0/weight.dll
+/home/romanrb/Рабочий стол/C#/Example/weight/obj/Debug/net6.0/refint/weight.dll
+/home/romanrb/Рабочий стол/C#/Example/weight/obj/Debug/net6.0/weight.pdb
+/home/romanrb/Рабочий стол/C#/Example/weight/obj/Debug/net6.0/weight.genruntimeconfig.cache
+/home/romanrb/Рабочий стол/C#/Example/weight/obj/Debug/net6.0/ref/weight.dll

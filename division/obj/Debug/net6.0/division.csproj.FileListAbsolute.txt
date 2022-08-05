@@ -1,0 +1,15 @@
+/home/romanrb/Рабочий стол/C#/Example/division/bin/Debug/net6.0/division
+/home/romanrb/Рабочий стол/C#/Example/division/bin/Debug/net6.0/division.deps.json
+/home/romanrb/Рабочий стол/C#/Example/division/bin/Debug/net6.0/division.runtimeconfig.json
+/home/romanrb/Рабочий стол/C#/Example/division/bin/Debug/net6.0/division.dll
+/home/romanrb/Рабочий стол/C#/Example/division/bin/Debug/net6.0/division.pdb
+/home/romanrb/Рабочий стол/C#/Example/division/obj/Debug/net6.0/division.csproj.AssemblyReference.cache
+/home/romanrb/Рабочий стол/C#/Example/division/obj/Debug/net6.0/division.GeneratedMSBuildEditorConfig.editorconfig
+/home/romanrb/Рабочий стол/C#/Example/division/obj/Debug/net6.0/division.AssemblyInfoInputs.cache
+/home/romanrb/Рабочий стол/C#/Example/division/obj/Debug/net6.0/division.AssemblyInfo.cs
+/home/romanrb/Рабочий стол/C#/Example/division/obj/Debug/net6.0/division.csproj.CoreCompileInputs.cache
+/home/romanrb/Рабочий стол/C#/Example/division/obj/Debug/net6.0/division.dll
+/home/romanrb/Рабочий стол/C#/Example/division/obj/Debug/net6.0/refint/division.dll
+/home/romanrb/Рабочий стол/C#/Example/division/obj/Debug/net6.0/division.pdb
+/home/romanrb/Рабочий стол/C#/Example/division/obj/Debug/net6.0/division.genruntimeconfig.cache
+/home/romanrb/Рабочий стол/C#/Example/division/obj/Debug/net6.0/ref/division.dll
